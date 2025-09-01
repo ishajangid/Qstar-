@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # Qstar-
-=======
-
 
 ---
 
@@ -39,8 +36,7 @@ An advanced personalized healthcare management system that leverages Reinforceme
 
 1. **Clone the repository**:
    ```bash
- git clone https://github.com/ishajangid/Qstar-
-
+   git clone https://github.com/ishajangid/Qstar-
    ```
 
 2. **Install dependencies**:
@@ -176,5 +172,4 @@ similarity_score = cosine_similarity(patient_vector, medication_vector)
 - Isha Jangir  
 *(IIIT Vadodara - International Campus Diu)*
 
---- 
->>>>>>> 6821b37 (Initial commit)
+---
