@@ -39,7 +39,7 @@ An advanced personalized healthcare management system that leverages Reinforceme
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/daivik-hirpara/Qstar_CS-367
+ git clone https://github.com/ishajangid/Qstar-
 
    ```
 
